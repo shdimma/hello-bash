@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo -n "hello world! It is now, " > hello1.txt
+echo $(date) >> hello1.txt

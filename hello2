@@ -1,0 +1,3 @@
+#!/bin/bash
+
+printf "hello world! It is now %s\n" "$(date)" > hello2.txt
