@@ -1,4 +1,4 @@
 ЛАБА 1 readme
-gpg test6
+gpg test7
 
 To remove hello.txt, use command - make clean
